@@ -689,7 +689,7 @@ Bom também:
 
 ### Escreva um elemento da lista por linha
 
-Listas looooooooooooooooooooooooooooooooooooooooogas
+Listas looooooooooooooooooooooooooooooooooooooooongas
 são difíceis deeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ler
 
 Ruim:
