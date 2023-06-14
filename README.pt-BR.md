@@ -1536,7 +1536,7 @@ Bom:
 
 ### Não utilize protocolo relativo em URL para recursos externos
 
-Com o protocolo você pode carregar recursos externos com seguração e estabilidade.
+Com o protocolo você pode carregar recursos externos com segurança e estabilidade.
 
 Ruim:
 
